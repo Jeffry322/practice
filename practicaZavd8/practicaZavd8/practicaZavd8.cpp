@@ -9,7 +9,7 @@ int main()
     cin >> name;
     size = name.size();
 
-    for (int i = 0; i < size; i++)
+    for (int i = 0; i < size; i++) //логіка програми працює ідентично що до логіки програми у завданні 3. 
     {
         if (name[i] == 'a')
         {
