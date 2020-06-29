@@ -24,4 +24,6 @@ int main() {
 	x++;
 	if (lenght == x)
 		cout << "Your List Is Ascending";
+	else
+		cout << "Your List isn't Ascending" << endl;
 }
