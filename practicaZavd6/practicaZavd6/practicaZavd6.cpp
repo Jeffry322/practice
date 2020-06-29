@@ -6,7 +6,7 @@ void searchingNumber(int x)
 	for (int i = 1; i < x; i++)
 	{
 		int y;
-		y = (i * (i + 1) * (i + 2));
+		y = (i * (i + 1) * (i + 2));     //робота програми описана у звіті 
 		
 		if (y == x)
 		{
