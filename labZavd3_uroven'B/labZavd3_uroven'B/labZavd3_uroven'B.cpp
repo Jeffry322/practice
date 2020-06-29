@@ -13,7 +13,7 @@ int main()
 	{
 		cin >> arr[i];
 	}
-	for (int i = 0; i < n; i++)
+	for (int i = 0; i < n; i++)                      //програма описана у звіті з практики.
 	{
 		if (arr[i] == 0)
 			zero_count++;
